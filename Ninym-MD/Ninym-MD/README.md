@@ -12,9 +12,7 @@
   <a href="https://wa.me/6287846676690">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://tiktok.com/@fangzjb">
-    <img align="left" alt="SIEGRIN | Titkok" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" />
-  </a> &nbsp;&nbsp;
+
   <a href="https://instagram.com/ricoxzz_?igshid=YmMyMTA2M2Y=">
 
 ---------
