@@ -23,8 +23,9 @@
 2. Sebelum pakai jangan lupa kasih star
 3. Follow Github !
 4. Jangan salah gunakan script ini!
-5. Jangan lupa Subscribe Youtube
-6. Jika ada eror di sc hub Fangz
+5. Jangan lupa Follow instagram aku ya
+   @ricoxzz_
+6. Jika ada eror di sc hub Saya
 
 ---------
 
