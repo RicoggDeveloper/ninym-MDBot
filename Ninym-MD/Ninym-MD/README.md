@@ -1,47 +1,27 @@
 <p align="center">
-    <img src="https://telegra.ph/file/8be697d93440d5e5a695e.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+<img src="https://avatars.githubusercontent.com/xmell91" width="150" height="150"/>
 </p>
-<h1 align="center">Ninym - MD</h1>
-<p align="center">
-  <a href="https://github.com/RicoggDeveloper"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Ricz+Ganz+Multi+Device;Base+ori+by+RiczXD;Recode+By+RiczXD;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
+<h1 align='center'>Hallo bang👋 :wave:</h1>
+<p align='center'>Hi There, I'm amel</p>
+<p align='center'>
+<a href="https://instagram.com/ricoxzz_.io"><img height="30" src="https://storage.caliph71.xyz/img/instagram.svg"></a>&nbsp;&nbsp;
 </p>
 
+ 
+ <p align="center">
+ <img src="https://komarev.com/ghpvc/?username=caliph91&color=blue&label=Profile Views" />
+ </p>
 
----------
-## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/6287846676690">
-    <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-  </a> &nbsp;&nbsp;
+<h3 align="left">Contact with me:</h3>
+<p align="left"><a href="https://instagram.com/ricoxzz_.io" target="blank"><img align="center" src="https://storage.caliph71.xyz/img/instagram.svg" height="30" width="30" /></a>
+<p align="left"><a href="https://Wa.me/6287846676690" target="blank"><img align="center" src="https://storage.caliph71.xyz/img/whatsapp.svg" height="30" width="30" /></a>
+</p>
 
-  <a href="https://instagram.com/ricoxzz_?igshid=YmMyMTA2M2Y=">
+<h3 align="left">Github Stats</h3>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=xmell91&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true&icon_color=fff&hide_border=false&show_icons=falze" /></a>
+</p> 
 
----------
-
-
-### 📮 S&K
-1. Jangan diperjual belikan Script ini
-2. Sebelum pakai jangan lupa kasih star
-3. Follow Github !
-4. Jangan salah gunakan script ini!
-5. Jangan lupa Follow instagram aku ya
-   @ricoxzz_
-6. Jika ada eror di sc hub Saya
-
----------
-
-
-## ```Thanks to ✨```
-* [`Allah SWT`](https://github.com/RicoggDeveloper)
-* [`My parents`](https://github.com/RicoggDeveloper)
-* [`All Friends`](https://github.com/RicoggDeveloper)
-* [`All Contributors`](https://github.com/RicoggDeveloper)
-* [`All Creator Bot`](https://github.com/RicoggDeveloper)
-
-## ```Recode By 💌```
-[![Ninym-MD](https://github.com/RicoggDeveloper.png?size=100)](https://github.com/RicoggDeveloper)
-
-## ```Thanks to my Team```
-* RiczXD (Remake) 
-* Ibnu nr (pengembang) 
-* RiozXD
-* RagzXD
+<p align="left">
+  <a href="https://github.com/Xmell91"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=xmell91&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&hide_title=false&show_icons=true&layout=compact&langs_count=10" /></a>
+</p>
